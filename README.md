@@ -1,5 +1,9 @@
-get_class_params
-================
+[DEPRECATED] get_class_params
+=============================
+
+NOTE: This repository is no longer maintained
+---------------------------------------------
+
 
 This Puppet function accepts a class name as argument and will retrieve the class names parameters and their values. Note that this only retrieves a the class definition parameters, not the parameters of an instance of the class.
 
